@@ -6,7 +6,7 @@
 
 ---
 
-![banner](https://raw.githubusercontent.com/your-username/awesome-llm-security/main/assets/banner.png) <!-- Replace with your custom image -->
+
 
 ---
 
